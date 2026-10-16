@@ -31,7 +31,7 @@ Graphical Abstract. *Photo credit: Fabian D. Schneider.*
 
 ![SHIFT: : **overview**](Figure_1_Overview.png)
 
-SHIFT: : **overview** of the first imaging spectroscopy mission designed to capture the phenology of a changing landscape.  
+[SHIFT mission](https://impact.earthdata.nasa.gov/casei/campaign/SHIFT/):  **overview** of the first imaging spectroscopy suborbital mission designed to capture the phenology of a changing landscape.  
   
   
 
