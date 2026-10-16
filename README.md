@@ -23,7 +23,7 @@ biological information emerges in imaging spectroscopy data"* (Revenga et al., 2
 
 ![Graphical Abstract](graphical_abstract_v1.jpg)
 
-Graphical Abstract. *Photo credit: Fabian D. Schneider.*\
+Graphical Abstract. *Photo credit: Fabian D. Schneider.*  
   
  
 
@@ -31,11 +31,11 @@ Graphical Abstract. *Photo credit: Fabian D. Schneider.*\
 
 ![SHIFT: : **overview**](Figure_1_Overview.png)
 
-SHIFT: : **overview** of the first imaging spectroscopy mission designed to capture the phenology of a changing landscape.\
+SHIFT: : **overview** of the first imaging spectroscopy mission designed to capture the phenology of a changing landscape.  
   
   
 
 
 ![Methodology](Figure_2_Methodology.png)
 
-Sketch of the methodology followed in this study.\
+Sketch of the methodology followed in this study.  
