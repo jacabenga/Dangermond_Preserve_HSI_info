@@ -1,0 +1,971 @@
+loc_key,veg_class,veg_class_name,location,combined_p_fisher,n_dates_tested,n_dates_significant
+class5_loc020,5,Black Sage Scrub,20,0.0,13,3
+class5_loc023,5,Black Sage Scrub,23,0.0,13,7
+class5_loc045,5,Black Sage Scrub,45,0.0,13,4
+class5_loc063,5,Black Sage Scrub,63,0.0,13,3
+class5_loc088,5,Black Sage Scrub,88,0.0,13,6
+class5_loc099,5,Black Sage Scrub,99,0.0,13,2
+class5_loc112,5,Black Sage Scrub,112,4.43074215433048e-289,13,6
+class5_loc054,5,Black Sage Scrub,54,1.0989399843663366e-288,13,6
+class5_loc097,5,Black Sage Scrub,97,4.651959290241026e-288,13,6
+class5_loc115,5,Black Sage Scrub,115,5.201188457501158e-288,13,6
+class5_loc019,5,Black Sage Scrub,19,7.507245912274789e-288,13,7
+class5_loc012,5,Black Sage Scrub,12,4.832722697312735e-287,13,4
+class5_loc051,5,Black Sage Scrub,51,4.998462570876789e-286,13,5
+class5_loc056,5,Black Sage Scrub,56,9.619021294856014e-285,13,4
+class5_loc075,5,Black Sage Scrub,75,1.4227254180845892e-284,13,4
+class5_loc050,5,Black Sage Scrub,50,1.4331099665973854e-284,13,3
+class5_loc102,5,Black Sage Scrub,102,3.851372182288693e-284,13,4
+class5_loc071,5,Black Sage Scrub,71,1.0035079079349351e-283,13,3
+class5_loc067,5,Black Sage Scrub,67,2.0891994338300515e-283,13,3
+class5_loc103,5,Black Sage Scrub,103,3.3509864789772288e-283,13,2
+class5_loc028,5,Black Sage Scrub,28,4.52255873699323e-283,13,4
+class5_loc066,5,Black Sage Scrub,66,1.6115304905431398e-282,13,2
+class5_loc121,5,Black Sage Scrub,121,6.8565914843134505e-282,13,3
+class5_loc064,5,Black Sage Scrub,64,8.082027979696274e-282,13,2
+class5_loc006,5,Black Sage Scrub,6,2.4588249601148186e-281,13,2
+class5_loc032,5,Black Sage Scrub,32,4.221886131310195e-281,13,3
+class5_loc035,5,Black Sage Scrub,35,8.963451533731155e-281,13,3
+class5_loc007,5,Black Sage Scrub,7,1.1470535769383064e-280,13,3
+class5_loc106,5,Black Sage Scrub,106,1.7334927332694541e-280,13,2
+class5_loc085,5,Black Sage Scrub,85,3.3226605126831447e-280,13,3
+class5_loc029,5,Black Sage Scrub,29,4.868929867000451e-280,13,2
+class5_loc014,5,Black Sage Scrub,14,6.083260219934123e-279,13,1
+class5_loc058,5,Black Sage Scrub,58,2.386159994985534e-278,13,1
+class5_loc049,5,Black Sage Scrub,49,2.99819860089434e-278,13,1
+class5_loc042,5,Black Sage Scrub,42,3.9227549700140696e-278,13,1
+class5_loc037,5,Black Sage Scrub,37,3.9021384000412065e-277,13,1
+class5_loc084,5,Black Sage Scrub,84,4.162374069692114e-277,13,1
+class5_loc009,5,Black Sage Scrub,9,1.872253638334021e-07,13,7
+class5_loc062,5,Black Sage Scrub,62,9.172069445707902e-06,13,7
+class5_loc093,5,Black Sage Scrub,93,1.6818002988913293e-05,13,5
+class5_loc061,5,Black Sage Scrub,61,2.873516786988244e-05,13,5
+class5_loc025,5,Black Sage Scrub,25,5.456917321340737e-05,13,6
+class5_loc040,5,Black Sage Scrub,40,6.990324772759642e-05,13,6
+class5_loc015,5,Black Sage Scrub,15,0.00015985177588458783,13,5
+class5_loc043,5,Black Sage Scrub,43,0.00033317307450143484,13,3
+class5_loc100,5,Black Sage Scrub,100,0.0008710824826826064,13,4
+class5_loc036,5,Black Sage Scrub,36,0.0009809947905589705,13,4
+class5_loc044,5,Black Sage Scrub,44,0.0014462924969484015,13,3
+class5_loc074,5,Black Sage Scrub,74,0.006234657314253645,13,3
+class5_loc104,5,Black Sage Scrub,104,0.008084376801766902,13,3
+class5_loc010,5,Black Sage Scrub,10,0.011567215911839976,13,4
+class5_loc083,5,Black Sage Scrub,83,0.011964071988140118,13,3
+class5_loc034,5,Black Sage Scrub,34,0.014028847928422636,13,4
+class5_loc090,5,Black Sage Scrub,90,0.014057618145095985,13,4
+class5_loc001,5,Black Sage Scrub,1,0.014531034160704228,13,3
+class5_loc057,5,Black Sage Scrub,57,0.015261014877735827,13,3
+class5_loc008,5,Black Sage Scrub,8,0.061397403773016605,13,3
+class5_loc095,5,Black Sage Scrub,95,0.06570675434163477,13,2
+class5_loc120,5,Black Sage Scrub,120,0.10035006080921414,13,2
+class5_loc004,5,Black Sage Scrub,4,0.11043074351741089,13,1
+class5_loc022,5,Black Sage Scrub,22,0.1251691521751148,13,1
+class5_loc080,5,Black Sage Scrub,80,0.13960480835782882,13,2
+class5_loc079,5,Black Sage Scrub,79,0.1595579955695402,13,2
+class5_loc107,5,Black Sage Scrub,107,0.1648041874802081,13,2
+class5_loc068,5,Black Sage Scrub,68,0.16868204229461958,13,1
+class5_loc016,5,Black Sage Scrub,16,0.18698417670909337,13,2
+class5_loc052,5,Black Sage Scrub,52,0.18833428631096022,13,2
+class5_loc038,5,Black Sage Scrub,38,0.22201510284934617,13,2
+class5_loc109,5,Black Sage Scrub,109,0.2494789440986049,13,1
+class5_loc053,5,Black Sage Scrub,53,0.26304945631136195,13,1
+class5_loc069,5,Black Sage Scrub,69,0.2776241763882753,13,1
+class5_loc082,5,Black Sage Scrub,82,0.3115674558622824,13,2
+class5_loc114,5,Black Sage Scrub,114,0.3677306214596526,13,1
+class5_loc076,5,Black Sage Scrub,76,0.3705244354259827,13,0
+class5_loc027,5,Black Sage Scrub,27,0.37832159225033346,13,1
+class5_loc086,5,Black Sage Scrub,86,0.40292506959852425,13,2
+class5_loc105,5,Black Sage Scrub,105,0.41193320343632367,13,1
+class5_loc002,5,Black Sage Scrub,2,0.41580343125188396,13,0
+class5_loc078,5,Black Sage Scrub,78,0.42328663666873434,13,1
+class5_loc092,5,Black Sage Scrub,92,0.42558907288723935,13,0
+class5_loc072,5,Black Sage Scrub,72,0.44449295631142516,13,0
+class5_loc087,5,Black Sage Scrub,87,0.48075541103258856,13,1
+class5_loc055,5,Black Sage Scrub,55,0.505809998336465,13,1
+class5_loc047,5,Black Sage Scrub,47,0.5206609206247745,13,0
+class5_loc077,5,Black Sage Scrub,77,0.5339901211243914,13,2
+class5_loc039,5,Black Sage Scrub,39,0.5649914400545519,13,1
+class5_loc018,5,Black Sage Scrub,18,0.5659591823681507,13,1
+class5_loc116,5,Black Sage Scrub,116,0.5834046907128707,13,1
+class5_loc065,5,Black Sage Scrub,65,0.6237458403900383,13,0
+class5_loc108,5,Black Sage Scrub,108,0.6239289118668732,13,0
+class5_loc059,5,Black Sage Scrub,59,0.6260847515065482,13,1
+class5_loc033,5,Black Sage Scrub,33,0.6487405220145529,13,0
+class5_loc017,5,Black Sage Scrub,17,0.6522319893435207,13,0
+class5_loc119,5,Black Sage Scrub,119,0.6613900715675787,13,1
+class5_loc000,5,Black Sage Scrub,0,0.7041402866372433,13,1
+class5_loc096,5,Black Sage Scrub,96,0.7631645016463582,13,1
+class5_loc013,5,Black Sage Scrub,13,0.7928725386730426,13,1
+class5_loc111,5,Black Sage Scrub,111,0.7973736479685254,13,1
+class5_loc011,5,Black Sage Scrub,11,0.8017218786051201,13,1
+class5_loc070,5,Black Sage Scrub,70,0.8044774599341168,13,0
+class5_loc118,5,Black Sage Scrub,118,0.8202596688846446,13,1
+class5_loc003,5,Black Sage Scrub,3,0.8347474319884667,13,1
+class5_loc048,5,Black Sage Scrub,48,0.8399167138887305,13,1
+class5_loc117,5,Black Sage Scrub,117,0.8593553177505051,13,0
+class5_loc060,5,Black Sage Scrub,60,0.868258455987757,13,1
+class5_loc005,5,Black Sage Scrub,5,0.8686080912223586,13,1
+class5_loc098,5,Black Sage Scrub,98,0.8718004558752876,13,0
+class5_loc089,5,Black Sage Scrub,89,0.8988335137334676,13,0
+class5_loc101,5,Black Sage Scrub,101,0.916733194403332,13,0
+class5_loc091,5,Black Sage Scrub,91,0.9262954671450508,13,0
+class5_loc026,5,Black Sage Scrub,26,0.9629470129673461,13,1
+class5_loc046,5,Black Sage Scrub,46,0.9705371018985964,13,0
+class5_loc021,5,Black Sage Scrub,21,0.9717456681004035,13,0
+class5_loc113,5,Black Sage Scrub,113,0.9805980645292497,13,0
+class5_loc024,5,Black Sage Scrub,24,0.9842379938121611,13,0
+class5_loc094,5,Black Sage Scrub,94,0.992263648757229,13,0
+class5_loc030,5,Black Sage Scrub,30,0.9948500122932777,13,0
+class5_loc081,5,Black Sage Scrub,81,0.9957924036877221,13,0
+class5_loc073,5,Black Sage Scrub,73,0.9997585771737474,13,0
+class5_loc031,5,Black Sage Scrub,31,0.9997846227634541,13,0
+class5_loc041,5,Black Sage Scrub,41,0.9999762423821481,13,0
+class5_loc110,5,Black Sage Scrub,110,0.9999774301448183,13,0
+class11_loc031,11,California Sagebrush Scrub,31,0.0,13,7
+class11_loc049,11,California Sagebrush Scrub,49,0.0,13,2
+class11_loc077,11,California Sagebrush Scrub,77,0.0,13,4
+class11_loc080,11,California Sagebrush Scrub,80,0.0,13,3
+class11_loc081,11,California Sagebrush Scrub,81,0.0,13,6
+class11_loc087,11,California Sagebrush Scrub,87,0.0,13,5
+class11_loc099,11,California Sagebrush Scrub,99,0.0,13,7
+class11_loc107,11,California Sagebrush Scrub,107,0.0,13,2
+class11_loc113,11,California Sagebrush Scrub,113,0.0,13,7
+class11_loc098,11,California Sagebrush Scrub,98,1.1339096864255748e-290,13,6
+class11_loc039,11,California Sagebrush Scrub,39,1.045614742681383e-286,13,4
+class11_loc007,11,California Sagebrush Scrub,7,3.1749688182540233e-285,13,4
+class11_loc014,11,California Sagebrush Scrub,14,1.178278035420588e-284,13,5
+class11_loc086,11,California Sagebrush Scrub,86,1.729158536011226e-284,13,4
+class11_loc043,11,California Sagebrush Scrub,43,1.6949958421540112e-283,13,3
+class11_loc019,11,California Sagebrush Scrub,19,4.981271854859254e-283,13,3
+class11_loc093,11,California Sagebrush Scrub,93,5.437450371941994e-283,13,4
+class11_loc062,11,California Sagebrush Scrub,62,7.534161886709676e-283,13,2
+class11_loc097,11,California Sagebrush Scrub,97,8.95861420005388e-283,13,3
+class11_loc067,11,California Sagebrush Scrub,67,1.0717080150501414e-282,13,4
+class11_loc018,11,California Sagebrush Scrub,18,5.332144558992612e-282,13,3
+class11_loc085,11,California Sagebrush Scrub,85,6.4524624001222634e-282,13,3
+class11_loc055,11,California Sagebrush Scrub,55,1.5009033374466683e-281,13,2
+class11_loc033,11,California Sagebrush Scrub,33,1.6661159700881335e-281,13,2
+class11_loc004,11,California Sagebrush Scrub,4,2.2941792969297748e-281,13,3
+class11_loc089,11,California Sagebrush Scrub,89,3.126544727463109e-281,13,2
+class11_loc035,11,California Sagebrush Scrub,35,3.897633382339454e-281,13,1
+class11_loc052,11,California Sagebrush Scrub,52,5.582370661498213e-281,13,3
+class11_loc027,11,California Sagebrush Scrub,27,6.97302518799535e-281,13,1
+class11_loc047,11,California Sagebrush Scrub,47,7.343979983983033e-281,13,3
+class11_loc028,11,California Sagebrush Scrub,28,1.4552045154887955e-280,13,3
+class11_loc025,11,California Sagebrush Scrub,25,1.8867321901486923e-280,13,1
+class11_loc026,11,California Sagebrush Scrub,26,2.3083405710051927e-280,13,3
+class11_loc119,11,California Sagebrush Scrub,119,3.1891596310267363e-280,13,2
+class11_loc088,11,California Sagebrush Scrub,88,4.0922954797322833e-280,13,2
+class11_loc051,11,California Sagebrush Scrub,51,1.4852244947949002e-279,13,1
+class11_loc071,11,California Sagebrush Scrub,71,2.0565483836050178e-279,13,1
+class11_loc050,11,California Sagebrush Scrub,50,3.622254195000231e-279,13,2
+class11_loc095,11,California Sagebrush Scrub,95,3.917033891062333e-279,13,1
+class11_loc041,11,California Sagebrush Scrub,41,1.2827504771004838e-278,13,1
+class11_loc020,11,California Sagebrush Scrub,20,1.3958629487453612e-278,13,1
+class11_loc038,11,California Sagebrush Scrub,38,1.473428915909985e-278,13,2
+class11_loc118,11,California Sagebrush Scrub,118,1.1075178705823953e-277,13,1
+class11_loc064,11,California Sagebrush Scrub,64,1.205708914538082e-277,13,1
+class11_loc005,11,California Sagebrush Scrub,5,3.17481393109683e-276,13,1
+class11_loc068,11,California Sagebrush Scrub,68,0.0001584591277771648,13,4
+class11_loc036,11,California Sagebrush Scrub,36,0.0008039262125545494,13,4
+class11_loc022,11,California Sagebrush Scrub,22,0.003598385351704127,13,4
+class11_loc032,11,California Sagebrush Scrub,32,0.006008968265370527,13,4
+class11_loc108,11,California Sagebrush Scrub,108,0.017997446820490204,13,3
+class11_loc040,11,California Sagebrush Scrub,40,0.020077176430465027,13,3
+class11_loc112,11,California Sagebrush Scrub,112,0.04031445487188547,13,2
+class11_loc034,11,California Sagebrush Scrub,34,0.041370931176517294,13,2
+class11_loc013,11,California Sagebrush Scrub,13,0.06850466923260838,13,0
+class11_loc054,11,California Sagebrush Scrub,54,0.0714454534742988,13,2
+class11_loc060,11,California Sagebrush Scrub,60,0.07405729893230702,13,2
+class11_loc000,11,California Sagebrush Scrub,0,0.07682770571361243,13,2
+class11_loc083,11,California Sagebrush Scrub,83,0.0896350538021945,13,2
+class11_loc058,11,California Sagebrush Scrub,58,0.09195953297283938,13,3
+class11_loc084,11,California Sagebrush Scrub,84,0.09551016540996965,13,2
+class11_loc082,11,California Sagebrush Scrub,82,0.12041569958552277,13,1
+class11_loc069,11,California Sagebrush Scrub,69,0.17264557460240912,13,2
+class11_loc010,11,California Sagebrush Scrub,10,0.2200070511720327,13,1
+class11_loc044,11,California Sagebrush Scrub,44,0.24092959838501612,13,2
+class11_loc065,11,California Sagebrush Scrub,65,0.25169388695931527,13,2
+class11_loc045,11,California Sagebrush Scrub,45,0.2632440609090654,13,1
+class11_loc073,11,California Sagebrush Scrub,73,0.2724715043549262,13,2
+class11_loc076,11,California Sagebrush Scrub,76,0.2803855992072693,13,1
+class11_loc092,11,California Sagebrush Scrub,92,0.3354101710632008,13,2
+class11_loc037,11,California Sagebrush Scrub,37,0.33638791188788686,13,1
+class11_loc016,11,California Sagebrush Scrub,16,0.3410520146703423,13,0
+class11_loc006,11,California Sagebrush Scrub,6,0.3629651189274413,13,1
+class11_loc048,11,California Sagebrush Scrub,48,0.3920730273700846,13,0
+class11_loc001,11,California Sagebrush Scrub,1,0.3946189768645433,13,1
+class11_loc024,11,California Sagebrush Scrub,24,0.4376486153269081,13,2
+class11_loc046,11,California Sagebrush Scrub,46,0.4561038408584146,13,1
+class11_loc017,11,California Sagebrush Scrub,17,0.4570672416820929,13,1
+class11_loc029,11,California Sagebrush Scrub,29,0.47777659537526007,13,1
+class11_loc116,11,California Sagebrush Scrub,116,0.495718813488945,13,1
+class11_loc104,11,California Sagebrush Scrub,104,0.5125398583775018,13,1
+class11_loc074,11,California Sagebrush Scrub,74,0.5526981067465071,13,0
+class11_loc101,11,California Sagebrush Scrub,101,0.5564995387745297,13,1
+class11_loc021,11,California Sagebrush Scrub,21,0.5672872369428487,13,1
+class11_loc002,11,California Sagebrush Scrub,2,0.6112420911927714,13,2
+class11_loc121,11,California Sagebrush Scrub,121,0.6491927240587988,13,0
+class11_loc094,11,California Sagebrush Scrub,94,0.6880799578682774,13,1
+class11_loc030,11,California Sagebrush Scrub,30,0.6952945162328785,13,1
+class11_loc106,11,California Sagebrush Scrub,106,0.7276421511267108,13,1
+class11_loc117,11,California Sagebrush Scrub,117,0.7606731077049669,13,0
+class11_loc070,11,California Sagebrush Scrub,70,0.8085955582408978,13,1
+class11_loc072,11,California Sagebrush Scrub,72,0.8236052011098522,13,2
+class11_loc063,11,California Sagebrush Scrub,63,0.8536362112545934,13,0
+class11_loc090,11,California Sagebrush Scrub,90,0.8673808549638946,13,0
+class11_loc009,11,California Sagebrush Scrub,9,0.8828646636084471,13,1
+class11_loc110,11,California Sagebrush Scrub,110,0.8883082695152601,13,0
+class11_loc011,11,California Sagebrush Scrub,11,0.8910319369556938,13,1
+class11_loc053,11,California Sagebrush Scrub,53,0.9088553437244039,13,1
+class11_loc075,11,California Sagebrush Scrub,75,0.9090672414220476,13,1
+class11_loc023,11,California Sagebrush Scrub,23,0.9364965232899732,13,0
+class11_loc061,11,California Sagebrush Scrub,61,0.9365829425676659,13,0
+class11_loc056,11,California Sagebrush Scrub,56,0.9438633339697192,13,1
+class11_loc102,11,California Sagebrush Scrub,102,0.9443447959689363,13,0
+class11_loc079,11,California Sagebrush Scrub,79,0.9474769339568739,13,0
+class11_loc114,11,California Sagebrush Scrub,114,0.9522630855539315,13,1
+class11_loc057,11,California Sagebrush Scrub,57,0.9595067948392605,13,0
+class11_loc100,11,California Sagebrush Scrub,100,0.9608047334499085,13,0
+class11_loc096,11,California Sagebrush Scrub,96,0.9635280352276575,13,0
+class11_loc078,11,California Sagebrush Scrub,78,0.9769978021300635,13,0
+class11_loc003,11,California Sagebrush Scrub,3,0.9868609632666695,13,0
+class11_loc115,11,California Sagebrush Scrub,115,0.9901645123664994,13,0
+class11_loc008,11,California Sagebrush Scrub,8,0.9925333317276444,13,0
+class11_loc103,11,California Sagebrush Scrub,103,0.9928126806330979,13,1
+class11_loc066,11,California Sagebrush Scrub,66,0.99341783272399,13,0
+class11_loc091,11,California Sagebrush Scrub,91,0.993769069954181,13,0
+class11_loc042,11,California Sagebrush Scrub,42,0.9953452691110101,13,0
+class11_loc111,11,California Sagebrush Scrub,111,0.9970924494123365,13,0
+class11_loc012,11,California Sagebrush Scrub,12,0.9979357461778066,13,0
+class11_loc120,11,California Sagebrush Scrub,120,0.999292135866655,13,0
+class11_loc105,11,California Sagebrush Scrub,105,0.999377459729993,13,0
+class11_loc109,11,California Sagebrush Scrub,109,0.9994026321265133,13,0
+class11_loc059,11,California Sagebrush Scrub,59,0.9997999754645804,13,0
+class11_loc015,11,California Sagebrush Scrub,15,0.9998902117513103,13,0
+class16_loc006,16,Coast Live Oak Woodland,6,0.0,13,3
+class16_loc011,16,Coast Live Oak Woodland,11,0.0,13,3
+class16_loc033,16,Coast Live Oak Woodland,33,0.0,13,2
+class16_loc035,16,Coast Live Oak Woodland,35,0.0,13,7
+class16_loc040,16,Coast Live Oak Woodland,40,0.0,13,5
+class16_loc048,16,Coast Live Oak Woodland,48,0.0,13,5
+class16_loc050,16,Coast Live Oak Woodland,50,0.0,13,6
+class16_loc051,16,Coast Live Oak Woodland,51,0.0,13,3
+class16_loc055,16,Coast Live Oak Woodland,55,0.0,13,4
+class16_loc061,16,Coast Live Oak Woodland,61,0.0,13,5
+class16_loc082,16,Coast Live Oak Woodland,82,0.0,13,5
+class16_loc083,16,Coast Live Oak Woodland,83,0.0,13,3
+class16_loc087,16,Coast Live Oak Woodland,87,0.0,13,3
+class16_loc088,16,Coast Live Oak Woodland,88,0.0,13,2
+class16_loc104,16,Coast Live Oak Woodland,104,0.0,13,2
+class16_loc106,16,Coast Live Oak Woodland,106,0.0,13,2
+class16_loc110,16,Coast Live Oak Woodland,110,0.0,13,6
+class16_loc013,16,Coast Live Oak Woodland,13,1.5142670319492032e-289,13,4
+class16_loc111,16,Coast Live Oak Woodland,111,1.3602200978860832e-288,13,5
+class16_loc025,16,Coast Live Oak Woodland,25,1.8759807966546715e-288,13,5
+class16_loc099,16,Coast Live Oak Woodland,99,8.419277650782977e-288,13,5
+class16_loc037,16,Coast Live Oak Woodland,37,1.596740960191224e-287,13,6
+class16_loc116,16,Coast Live Oak Woodland,116,2.397185560527607e-286,13,4
+class16_loc019,16,Coast Live Oak Woodland,19,2.7688611428542194e-286,13,4
+class16_loc010,16,Coast Live Oak Woodland,10,5.211605674597544e-286,13,5
+class16_loc119,16,Coast Live Oak Woodland,119,4.78567057544797e-285,13,4
+class16_loc118,16,Coast Live Oak Woodland,118,6.692349047080856e-285,13,4
+class16_loc007,16,Coast Live Oak Woodland,7,1.2623121816720247e-284,13,5
+class16_loc092,16,Coast Live Oak Woodland,92,1.46416777741444e-284,13,3
+class16_loc026,16,Coast Live Oak Woodland,26,1.9627280166447067e-284,13,3
+class16_loc089,16,Coast Live Oak Woodland,89,5.586733709106793e-284,13,3
+class16_loc098,16,Coast Live Oak Woodland,98,7.351607787063317e-284,13,4
+class16_loc102,16,Coast Live Oak Woodland,102,1.7339924646699891e-283,13,2
+class16_loc044,16,Coast Live Oak Woodland,44,1.8869180787398836e-283,13,2
+class16_loc114,16,Coast Live Oak Woodland,114,2.433490283726551e-283,13,3
+class16_loc115,16,Coast Live Oak Woodland,115,3.19880781076325e-283,13,3
+class16_loc091,16,Coast Live Oak Woodland,91,3.9244394602692996e-283,13,3
+class16_loc028,16,Coast Live Oak Woodland,28,4.627743092912067e-283,13,3
+class16_loc016,16,Coast Live Oak Woodland,16,5.102359777647594e-283,13,2
+class16_loc109,16,Coast Live Oak Woodland,109,5.906572479090472e-283,13,3
+class16_loc080,16,Coast Live Oak Woodland,80,8.754119540887802e-283,13,2
+class16_loc009,16,Coast Live Oak Woodland,9,1.0338681901707395e-282,13,3
+class16_loc052,16,Coast Live Oak Woodland,52,1.2176411953850087e-282,13,3
+class16_loc113,16,Coast Live Oak Woodland,113,2.4044884012651262e-282,13,1
+class16_loc020,16,Coast Live Oak Woodland,20,2.9584722726390466e-282,13,3
+class16_loc069,16,Coast Live Oak Woodland,69,7.960184043262047e-282,13,2
+class16_loc024,16,Coast Live Oak Woodland,24,1.1098032339984139e-281,13,3
+class16_loc108,16,Coast Live Oak Woodland,108,1.3638502308473344e-281,13,2
+class16_loc053,16,Coast Live Oak Woodland,53,1.5550958988010174e-280,13,2
+class16_loc068,16,Coast Live Oak Woodland,68,3.6378201480205925e-280,13,1
+class16_loc077,16,Coast Live Oak Woodland,77,5.738296757733015e-280,13,1
+class16_loc021,16,Coast Live Oak Woodland,21,2.770513729897649e-279,13,1
+class16_loc065,16,Coast Live Oak Woodland,65,1.296259199947551e-07,13,8
+class16_loc103,16,Coast Live Oak Woodland,103,8.197172874124429e-06,13,6
+class16_loc074,16,Coast Live Oak Woodland,74,1.1862676039916707e-05,13,4
+class16_loc022,16,Coast Live Oak Woodland,22,1.5247281701065117e-05,13,4
+class16_loc058,16,Coast Live Oak Woodland,58,4.73160193026306e-05,13,5
+class16_loc067,16,Coast Live Oak Woodland,67,0.0001263221347543018,13,6
+class16_loc093,16,Coast Live Oak Woodland,93,0.00018033645263981145,13,4
+class16_loc017,16,Coast Live Oak Woodland,17,0.0001808398968976784,13,4
+class16_loc046,16,Coast Live Oak Woodland,46,0.00019087413375465116,13,3
+class16_loc018,16,Coast Live Oak Woodland,18,0.0002501553165014449,13,3
+class16_loc015,16,Coast Live Oak Woodland,15,0.0003023629788074132,13,3
+class16_loc047,16,Coast Live Oak Woodland,47,0.00035980342481004685,13,5
+class16_loc023,16,Coast Live Oak Woodland,23,0.0006817270139044704,13,5
+class16_loc041,16,Coast Live Oak Woodland,41,0.0009147529808253929,13,3
+class16_loc014,16,Coast Live Oak Woodland,14,0.0011279217389722493,13,4
+class16_loc085,16,Coast Live Oak Woodland,85,0.001587088284597295,13,4
+class16_loc042,16,Coast Live Oak Woodland,42,0.0018657441354210343,13,3
+class16_loc101,16,Coast Live Oak Woodland,101,0.0020389188921028627,13,3
+class16_loc081,16,Coast Live Oak Woodland,81,0.0021546677675850856,13,2
+class16_loc054,16,Coast Live Oak Woodland,54,0.0034880617896263706,13,4
+class16_loc027,16,Coast Live Oak Woodland,27,0.0038767591568048348,13,2
+class16_loc038,16,Coast Live Oak Woodland,38,0.004085487016756935,13,4
+class16_loc076,16,Coast Live Oak Woodland,76,0.004279953585169907,13,3
+class16_loc121,16,Coast Live Oak Woodland,121,0.004623005499543226,13,4
+class16_loc112,16,Coast Live Oak Woodland,112,0.005330616942495629,13,2
+class16_loc043,16,Coast Live Oak Woodland,43,0.0054419861196504295,13,2
+class16_loc120,16,Coast Live Oak Woodland,120,0.006732753066869621,13,3
+class16_loc070,16,Coast Live Oak Woodland,70,0.0071757690797116915,13,3
+class16_loc073,16,Coast Live Oak Woodland,73,0.0078096302417880094,13,2
+class16_loc084,16,Coast Live Oak Woodland,84,0.00951729014849313,13,4
+class16_loc003,16,Coast Live Oak Woodland,3,0.010961012840157602,13,2
+class16_loc090,16,Coast Live Oak Woodland,90,0.011460324424881976,13,2
+class16_loc032,16,Coast Live Oak Woodland,32,0.01392510567758571,13,2
+class16_loc057,16,Coast Live Oak Woodland,57,0.01426782160381095,13,1
+class16_loc002,16,Coast Live Oak Woodland,2,0.015505892238223759,13,1
+class16_loc064,16,Coast Live Oak Woodland,64,0.0160976757574311,13,2
+class16_loc029,16,Coast Live Oak Woodland,29,0.016369727195027602,13,3
+class16_loc107,16,Coast Live Oak Woodland,107,0.029596509558731308,13,1
+class16_loc049,16,Coast Live Oak Woodland,49,0.029653233852288144,13,1
+class16_loc059,16,Coast Live Oak Woodland,59,0.02992486953743551,13,2
+class16_loc096,16,Coast Live Oak Woodland,96,0.039676987525849666,13,3
+class16_loc062,16,Coast Live Oak Woodland,62,0.04622222616194322,13,2
+class16_loc079,16,Coast Live Oak Woodland,79,0.04797666132619628,13,2
+class16_loc086,16,Coast Live Oak Woodland,86,0.05539421432908033,13,2
+class16_loc030,16,Coast Live Oak Woodland,30,0.055509574358685504,13,2
+class16_loc071,16,Coast Live Oak Woodland,71,0.06390069761404239,13,2
+class16_loc100,16,Coast Live Oak Woodland,100,0.06972386855128784,13,2
+class16_loc060,16,Coast Live Oak Woodland,60,0.07033519558571535,13,2
+class16_loc078,16,Coast Live Oak Woodland,78,0.07067363882572321,13,1
+class16_loc045,16,Coast Live Oak Woodland,45,0.0718321086655685,13,2
+class16_loc095,16,Coast Live Oak Woodland,95,0.08022198166739605,13,1
+class16_loc097,16,Coast Live Oak Woodland,97,0.08289844519798391,13,1
+class16_loc094,16,Coast Live Oak Woodland,94,0.09448379149432476,13,1
+class16_loc072,16,Coast Live Oak Woodland,72,0.09556606741175686,13,2
+class16_loc036,16,Coast Live Oak Woodland,36,0.11137184334285484,13,1
+class16_loc063,16,Coast Live Oak Woodland,63,0.14121167148162198,13,1
+class16_loc075,16,Coast Live Oak Woodland,75,0.17516805579913083,13,2
+class16_loc012,16,Coast Live Oak Woodland,12,0.20830934001886178,13,1
+class16_loc117,16,Coast Live Oak Woodland,117,0.21539102965583648,13,2
+class16_loc000,16,Coast Live Oak Woodland,0,0.2421969243519648,13,1
+class16_loc005,16,Coast Live Oak Woodland,5,0.2582575053037587,13,1
+class16_loc039,16,Coast Live Oak Woodland,39,0.26058353950644925,13,1
+class16_loc066,16,Coast Live Oak Woodland,66,0.2907746928995103,13,0
+class16_loc031,16,Coast Live Oak Woodland,31,0.4626047833646349,13,0
+class16_loc056,16,Coast Live Oak Woodland,56,0.4779280364294478,13,0
+class16_loc001,16,Coast Live Oak Woodland,1,0.555106260665915,13,0
+class16_loc004,16,Coast Live Oak Woodland,4,0.7248388095522582,13,0
+class16_loc034,16,Coast Live Oak Woodland,34,0.8992054567460604,13,0
+class16_loc105,16,Coast Live Oak Woodland,105,0.9652009465053362,13,0
+class16_loc008,16,Coast Live Oak Woodland,8,0.9970307019469703,13,0
+class20_loc014,20,Coyote Brush Scrub,14,0.0,13,3
+class20_loc021,20,Coyote Brush Scrub,21,0.0,13,6
+class20_loc024,20,Coyote Brush Scrub,24,0.0,13,2
+class20_loc028,20,Coyote Brush Scrub,28,0.0,13,4
+class20_loc063,20,Coyote Brush Scrub,63,0.0,13,6
+class20_loc086,20,Coyote Brush Scrub,86,0.0,13,4
+class20_loc116,20,Coyote Brush Scrub,116,0.0,13,6
+class20_loc119,20,Coyote Brush Scrub,119,0.0,13,5
+class20_loc109,20,Coyote Brush Scrub,109,1.9516473630007484e-289,13,6
+class20_loc070,20,Coyote Brush Scrub,70,9.99996155105644e-287,13,3
+class20_loc051,20,Coyote Brush Scrub,51,1.1298932756309414e-286,13,7
+class20_loc073,20,Coyote Brush Scrub,73,1.1602284215543551e-286,13,4
+class20_loc117,20,Coyote Brush Scrub,117,3.7337498618307125e-285,13,3
+class20_loc013,20,Coyote Brush Scrub,13,4.138498683723362e-285,13,4
+class20_loc045,20,Coyote Brush Scrub,45,8.000469669497775e-285,13,4
+class20_loc052,20,Coyote Brush Scrub,52,1.0309388079082308e-284,13,3
+class20_loc064,20,Coyote Brush Scrub,64,1.3983776968384454e-284,13,4
+class20_loc019,20,Coyote Brush Scrub,19,1.7162699542227798e-284,13,2
+class20_loc072,20,Coyote Brush Scrub,72,1.8116622643934125e-284,13,4
+class20_loc113,20,Coyote Brush Scrub,113,2.4536264820286164e-284,13,4
+class20_loc055,20,Coyote Brush Scrub,55,3.7254833283104154e-284,13,2
+class20_loc068,20,Coyote Brush Scrub,68,5.433497439026251e-284,13,4
+class20_loc062,20,Coyote Brush Scrub,62,8.464147180849338e-284,13,3
+class20_loc042,20,Coyote Brush Scrub,42,3.477567616092234e-283,13,2
+class20_loc016,20,Coyote Brush Scrub,16,3.7833394966397184e-283,13,4
+class20_loc031,20,Coyote Brush Scrub,31,6.940205077067216e-283,13,3
+class20_loc103,20,Coyote Brush Scrub,103,1.5055005865188198e-282,13,4
+class20_loc085,20,Coyote Brush Scrub,85,2.6363590937355207e-282,13,2
+class20_loc032,20,Coyote Brush Scrub,32,8.567685623282561e-282,13,1
+class20_loc044,20,Coyote Brush Scrub,44,1.5281837829334575e-281,13,3
+class20_loc105,20,Coyote Brush Scrub,105,1.6113024479693212e-281,13,2
+class20_loc053,20,Coyote Brush Scrub,53,1.7215681724720137e-281,13,2
+class20_loc002,20,Coyote Brush Scrub,2,3.267468060675091e-281,13,1
+class20_loc054,20,Coyote Brush Scrub,54,6.47656066179469e-281,13,3
+class20_loc083,20,Coyote Brush Scrub,83,7.161830221953802e-281,13,2
+class20_loc104,20,Coyote Brush Scrub,104,1.3813912502905727e-280,13,1
+class20_loc041,20,Coyote Brush Scrub,41,3.605224351423274e-280,13,1
+class20_loc022,20,Coyote Brush Scrub,22,3.6968198136800325e-280,13,1
+class20_loc071,20,Coyote Brush Scrub,71,4.4787957442794065e-280,13,2
+class20_loc018,20,Coyote Brush Scrub,18,4.754621519291278e-280,13,2
+class20_loc011,20,Coyote Brush Scrub,11,3.1139180463628942e-279,13,1
+class20_loc057,20,Coyote Brush Scrub,57,2.5914453446041673e-278,13,1
+class20_loc084,20,Coyote Brush Scrub,84,4.26410717467276e-06,13,4
+class20_loc025,20,Coyote Brush Scrub,25,5.064927882068096e-05,13,5
+class20_loc080,20,Coyote Brush Scrub,80,0.00044972071154392076,13,5
+class20_loc091,20,Coyote Brush Scrub,91,0.0004757081397188597,13,5
+class20_loc046,20,Coyote Brush Scrub,46,0.0007262373951387269,13,3
+class20_loc120,20,Coyote Brush Scrub,120,0.0010697103494977588,13,3
+class20_loc059,20,Coyote Brush Scrub,59,0.0017000028902590533,13,4
+class20_loc005,20,Coyote Brush Scrub,5,0.0017346773645793474,13,3
+class20_loc099,20,Coyote Brush Scrub,99,0.002477885708671157,13,4
+class20_loc039,20,Coyote Brush Scrub,39,0.0030168559050054635,13,2
+class20_loc096,20,Coyote Brush Scrub,96,0.005094605263904417,13,3
+class20_loc010,20,Coyote Brush Scrub,10,0.005145307369527423,13,1
+class20_loc098,20,Coyote Brush Scrub,98,0.01793041799268498,13,2
+class20_loc008,20,Coyote Brush Scrub,8,0.02191193743107799,13,4
+class20_loc118,20,Coyote Brush Scrub,118,0.02754095354311531,13,2
+class20_loc050,20,Coyote Brush Scrub,50,0.035454151341768124,13,2
+class20_loc107,20,Coyote Brush Scrub,107,0.03998199940646406,13,3
+class20_loc079,20,Coyote Brush Scrub,79,0.0435738864682342,13,3
+class20_loc093,20,Coyote Brush Scrub,93,0.05256658672867506,13,2
+class20_loc035,20,Coyote Brush Scrub,35,0.056784459818338136,13,2
+class20_loc040,20,Coyote Brush Scrub,40,0.06724210885157836,13,2
+class20_loc000,20,Coyote Brush Scrub,0,0.07335848761266153,13,0
+class20_loc115,20,Coyote Brush Scrub,115,0.07905763231324099,13,2
+class20_loc078,20,Coyote Brush Scrub,78,0.0889247746652955,13,2
+class20_loc001,20,Coyote Brush Scrub,1,0.09404252707500407,13,2
+class20_loc058,20,Coyote Brush Scrub,58,0.0995823920925993,13,3
+class20_loc037,20,Coyote Brush Scrub,37,0.10292806378200231,13,2
+class20_loc101,20,Coyote Brush Scrub,101,0.106955811893421,13,2
+class20_loc092,20,Coyote Brush Scrub,92,0.10798970419365941,13,1
+class20_loc017,20,Coyote Brush Scrub,17,0.11731256919395146,13,1
+class20_loc060,20,Coyote Brush Scrub,60,0.11933425217237086,13,0
+class20_loc027,20,Coyote Brush Scrub,27,0.12914267181912154,13,2
+class20_loc111,20,Coyote Brush Scrub,111,0.1638514086643555,13,1
+class20_loc069,20,Coyote Brush Scrub,69,0.16460716890451807,13,3
+class20_loc047,20,Coyote Brush Scrub,47,0.17119550091959898,13,1
+class20_loc003,20,Coyote Brush Scrub,3,0.18647752570464302,13,1
+class20_loc015,20,Coyote Brush Scrub,15,0.19161386044008086,13,1
+class20_loc038,20,Coyote Brush Scrub,38,0.23079334562759785,13,1
+class20_loc095,20,Coyote Brush Scrub,95,0.24149922941331559,13,1
+class20_loc049,20,Coyote Brush Scrub,49,0.2789003070883338,13,1
+class20_loc029,20,Coyote Brush Scrub,29,0.28470229493545807,13,2
+class20_loc056,20,Coyote Brush Scrub,56,0.2865005480757721,13,1
+class20_loc020,20,Coyote Brush Scrub,20,0.2969629629851503,13,2
+class20_loc061,20,Coyote Brush Scrub,61,0.3034604979926662,13,1
+class20_loc066,20,Coyote Brush Scrub,66,0.31901487979224036,13,1
+class20_loc100,20,Coyote Brush Scrub,100,0.3244919482613396,13,1
+class20_loc009,20,Coyote Brush Scrub,9,0.3387416622953962,13,1
+class20_loc074,20,Coyote Brush Scrub,74,0.34338672534702197,13,1
+class20_loc094,20,Coyote Brush Scrub,94,0.3591666035563072,13,1
+class20_loc026,20,Coyote Brush Scrub,26,0.371754719662512,13,2
+class20_loc067,20,Coyote Brush Scrub,67,0.3783146737705342,13,1
+class20_loc007,20,Coyote Brush Scrub,7,0.3900154173218407,13,2
+class20_loc077,20,Coyote Brush Scrub,77,0.394728481417858,13,1
+class20_loc082,20,Coyote Brush Scrub,82,0.41414041250949946,13,1
+class20_loc036,20,Coyote Brush Scrub,36,0.41751630099501613,13,1
+class20_loc006,20,Coyote Brush Scrub,6,0.604321587743697,13,0
+class20_loc106,20,Coyote Brush Scrub,106,0.674862151964644,13,0
+class20_loc076,20,Coyote Brush Scrub,76,0.6807918004300939,13,0
+class20_loc048,20,Coyote Brush Scrub,48,0.7084198662410099,13,1
+class20_loc075,20,Coyote Brush Scrub,75,0.7267204786202794,13,0
+class20_loc090,20,Coyote Brush Scrub,90,0.7498108782512616,13,1
+class20_loc033,20,Coyote Brush Scrub,33,0.785754313222444,13,1
+class20_loc043,20,Coyote Brush Scrub,43,0.7884426618167726,13,1
+class20_loc110,20,Coyote Brush Scrub,110,0.8016481520973255,13,0
+class20_loc108,20,Coyote Brush Scrub,108,0.8107033579298102,13,0
+class20_loc030,20,Coyote Brush Scrub,30,0.8375749758921978,13,0
+class20_loc102,20,Coyote Brush Scrub,102,0.8392986630849665,13,0
+class20_loc089,20,Coyote Brush Scrub,89,0.8449456871161595,13,1
+class20_loc081,20,Coyote Brush Scrub,81,0.850225148852398,13,1
+class20_loc097,20,Coyote Brush Scrub,97,0.8532948247814259,13,1
+class20_loc023,20,Coyote Brush Scrub,23,0.9093988940470167,13,0
+class20_loc065,20,Coyote Brush Scrub,65,0.9399750294250956,13,0
+class20_loc004,20,Coyote Brush Scrub,4,0.9468631132384219,13,0
+class20_loc112,20,Coyote Brush Scrub,112,0.9472957037826757,13,0
+class20_loc012,20,Coyote Brush Scrub,12,0.9756919157087487,13,0
+class20_loc088,20,Coyote Brush Scrub,88,0.990875838092661,13,0
+class20_loc034,20,Coyote Brush Scrub,34,0.9945496233738504,13,0
+class20_loc114,20,Coyote Brush Scrub,114,0.9978375846748399,13,0
+class20_loc087,20,Coyote Brush Scrub,87,0.9993845121819579,13,0
+class31_loc000,31,Menzie's Golden Bush Scrub,0,0.0,13,2
+class31_loc006,31,Menzie's Golden Bush Scrub,6,0.0,13,4
+class31_loc017,31,Menzie's Golden Bush Scrub,17,0.0,13,2
+class31_loc060,31,Menzie's Golden Bush Scrub,60,0.0,13,2
+class31_loc080,31,Menzie's Golden Bush Scrub,80,0.0,13,3
+class31_loc099,31,Menzie's Golden Bush Scrub,99,0.0,13,5
+class31_loc114,31,Menzie's Golden Bush Scrub,114,0.0,13,3
+class31_loc035,31,Menzie's Golden Bush Scrub,35,8.34375344041036e-289,13,5
+class31_loc058,31,Menzie's Golden Bush Scrub,58,1.3947890679309736e-286,13,5
+class31_loc043,31,Menzie's Golden Bush Scrub,43,1.6203202166717043e-286,13,5
+class31_loc041,31,Menzie's Golden Bush Scrub,41,1.6533220526088227e-286,13,4
+class31_loc111,31,Menzie's Golden Bush Scrub,111,5.424945931797987e-286,13,4
+class31_loc118,31,Menzie's Golden Bush Scrub,118,1.416372876922307e-285,13,4
+class31_loc009,31,Menzie's Golden Bush Scrub,9,2.0617127733102085e-285,13,5
+class31_loc073,31,Menzie's Golden Bush Scrub,73,1.421915553783354e-283,13,3
+class31_loc020,31,Menzie's Golden Bush Scrub,20,2.3008259370469006e-283,13,3
+class31_loc025,31,Menzie's Golden Bush Scrub,25,3.6889188798482608e-283,13,5
+class31_loc051,31,Menzie's Golden Bush Scrub,51,5.640534366845471e-283,13,4
+class31_loc084,31,Menzie's Golden Bush Scrub,84,6.938204805112157e-283,13,3
+class31_loc052,31,Menzie's Golden Bush Scrub,52,1.0267931395006829e-282,13,3
+class31_loc023,31,Menzie's Golden Bush Scrub,23,1.2753008295929162e-282,13,3
+class31_loc005,31,Menzie's Golden Bush Scrub,5,6.780805407487332e-282,13,2
+class31_loc046,31,Menzie's Golden Bush Scrub,46,8.055991915581242e-282,13,2
+class31_loc007,31,Menzie's Golden Bush Scrub,7,8.17258016025169e-282,13,3
+class31_loc074,31,Menzie's Golden Bush Scrub,74,8.68911196845596e-282,13,2
+class31_loc040,31,Menzie's Golden Bush Scrub,40,1.5415064836097674e-281,13,2
+class31_loc010,31,Menzie's Golden Bush Scrub,10,1.875670400088522e-281,13,2
+class31_loc087,31,Menzie's Golden Bush Scrub,87,3.7892108076853305e-281,13,2
+class31_loc068,31,Menzie's Golden Bush Scrub,68,3.8565895592137936e-281,13,2
+class31_loc064,31,Menzie's Golden Bush Scrub,64,4.9150320492812443e-281,13,2
+class31_loc022,31,Menzie's Golden Bush Scrub,22,1.354653198744819e-280,13,2
+class31_loc070,31,Menzie's Golden Bush Scrub,70,3.031278413188042e-280,13,2
+class31_loc105,31,Menzie's Golden Bush Scrub,105,1.0512620983132146e-279,13,1
+class31_loc042,31,Menzie's Golden Bush Scrub,42,1.1552339234920436e-279,13,1
+class31_loc059,31,Menzie's Golden Bush Scrub,59,8.805982711139008e-279,13,1
+class31_loc083,31,Menzie's Golden Bush Scrub,83,0.0004970847809925226,13,3
+class31_loc027,31,Menzie's Golden Bush Scrub,27,0.0005296036287939739,13,4
+class31_loc104,31,Menzie's Golden Bush Scrub,104,0.0005921344439234885,13,3
+class31_loc109,31,Menzie's Golden Bush Scrub,109,0.0006902829772412059,13,3
+class31_loc090,31,Menzie's Golden Bush Scrub,90,0.004450545839368645,13,3
+class31_loc048,31,Menzie's Golden Bush Scrub,48,0.007804395447154109,13,2
+class31_loc018,31,Menzie's Golden Bush Scrub,18,0.010060000376922111,13,3
+class31_loc049,31,Menzie's Golden Bush Scrub,49,0.011515847842771525,13,3
+class31_loc116,31,Menzie's Golden Bush Scrub,116,0.012039356373344585,13,3
+class31_loc119,31,Menzie's Golden Bush Scrub,119,0.016536629903871804,13,2
+class31_loc107,31,Menzie's Golden Bush Scrub,107,0.019417479267479675,13,2
+class31_loc062,31,Menzie's Golden Bush Scrub,62,0.022455879246031086,13,4
+class31_loc078,31,Menzie's Golden Bush Scrub,78,0.023715655306494856,13,3
+class31_loc096,31,Menzie's Golden Bush Scrub,96,0.032744477227416656,13,2
+class31_loc112,31,Menzie's Golden Bush Scrub,112,0.04299611051102282,13,2
+class31_loc038,31,Menzie's Golden Bush Scrub,38,0.043955422353066785,13,3
+class31_loc001,31,Menzie's Golden Bush Scrub,1,0.044718056768330024,13,2
+class31_loc032,31,Menzie's Golden Bush Scrub,32,0.049338035051154916,13,3
+class31_loc030,31,Menzie's Golden Bush Scrub,30,0.05645489408963015,13,2
+class31_loc098,31,Menzie's Golden Bush Scrub,98,0.057785006580761786,13,3
+class31_loc055,31,Menzie's Golden Bush Scrub,55,0.09659312771191576,13,2
+class31_loc026,31,Menzie's Golden Bush Scrub,26,0.11264388588328077,13,2
+class31_loc088,31,Menzie's Golden Bush Scrub,88,0.11899160903431763,13,2
+class31_loc012,31,Menzie's Golden Bush Scrub,12,0.12488903873103464,13,1
+class31_loc093,31,Menzie's Golden Bush Scrub,93,0.1289852901958185,13,1
+class31_loc117,31,Menzie's Golden Bush Scrub,117,0.13495100594852436,13,3
+class31_loc014,31,Menzie's Golden Bush Scrub,14,0.1719345908406525,13,1
+class31_loc075,31,Menzie's Golden Bush Scrub,75,0.17965782649231646,13,1
+class31_loc076,31,Menzie's Golden Bush Scrub,76,0.1825730354396797,13,2
+class31_loc016,31,Menzie's Golden Bush Scrub,16,0.23996385905936965,13,3
+class31_loc081,31,Menzie's Golden Bush Scrub,81,0.247995490947996,13,2
+class31_loc102,31,Menzie's Golden Bush Scrub,102,0.24876132499351092,13,1
+class31_loc013,31,Menzie's Golden Bush Scrub,13,0.2799542139937754,13,1
+class31_loc091,31,Menzie's Golden Bush Scrub,91,0.28371035876883344,13,1
+class31_loc019,31,Menzie's Golden Bush Scrub,19,0.2922171253257646,13,2
+class31_loc065,31,Menzie's Golden Bush Scrub,65,0.2988295102042265,13,1
+class31_loc034,31,Menzie's Golden Bush Scrub,34,0.31293101543999885,13,2
+class31_loc092,31,Menzie's Golden Bush Scrub,92,0.33004056541088983,13,1
+class31_loc108,31,Menzie's Golden Bush Scrub,108,0.3419082483635907,13,2
+class31_loc097,31,Menzie's Golden Bush Scrub,97,0.3880368140143287,13,1
+class31_loc067,31,Menzie's Golden Bush Scrub,67,0.4212299486330666,13,1
+class31_loc094,31,Menzie's Golden Bush Scrub,94,0.4461030024564469,13,0
+class31_loc061,31,Menzie's Golden Bush Scrub,61,0.45575388701996955,13,0
+class31_loc095,31,Menzie's Golden Bush Scrub,95,0.4739025554777465,13,1
+class31_loc015,31,Menzie's Golden Bush Scrub,15,0.49266817371427907,13,1
+class31_loc089,31,Menzie's Golden Bush Scrub,89,0.49598353823325414,13,0
+class31_loc050,31,Menzie's Golden Bush Scrub,50,0.49881733354050506,13,0
+class31_loc079,31,Menzie's Golden Bush Scrub,79,0.5187337975048916,13,1
+class31_loc106,31,Menzie's Golden Bush Scrub,106,0.5375774177575503,13,1
+class31_loc086,31,Menzie's Golden Bush Scrub,86,0.5393174032508938,13,0
+class31_loc039,31,Menzie's Golden Bush Scrub,39,0.6448221581920339,13,2
+class31_loc113,31,Menzie's Golden Bush Scrub,113,0.6546264836097215,13,0
+class31_loc004,31,Menzie's Golden Bush Scrub,4,0.6698110211913972,13,1
+class31_loc056,31,Menzie's Golden Bush Scrub,56,0.6768026816047736,13,0
+class31_loc029,31,Menzie's Golden Bush Scrub,29,0.6824319293050667,13,0
+class31_loc101,31,Menzie's Golden Bush Scrub,101,0.7129805212989895,13,1
+class31_loc031,31,Menzie's Golden Bush Scrub,31,0.7567056442221894,13,0
+class31_loc047,31,Menzie's Golden Bush Scrub,47,0.7773908459076315,13,1
+class31_loc069,31,Menzie's Golden Bush Scrub,69,0.7785493493973376,13,1
+class31_loc053,31,Menzie's Golden Bush Scrub,53,0.7903452874147072,13,0
+class31_loc085,31,Menzie's Golden Bush Scrub,85,0.7930715648405628,13,1
+class31_loc028,31,Menzie's Golden Bush Scrub,28,0.8134704937089026,13,0
+class31_loc100,31,Menzie's Golden Bush Scrub,100,0.8230419955960017,13,0
+class31_loc024,31,Menzie's Golden Bush Scrub,24,0.8511836167268221,13,1
+class31_loc054,31,Menzie's Golden Bush Scrub,54,0.86149858134722,13,1
+class31_loc044,31,Menzie's Golden Bush Scrub,44,0.8838485123773531,13,1
+class31_loc037,31,Menzie's Golden Bush Scrub,37,0.8997937341322063,13,0
+class31_loc021,31,Menzie's Golden Bush Scrub,21,0.9031374556537592,13,1
+class31_loc008,31,Menzie's Golden Bush Scrub,8,0.9035086844670406,13,0
+class31_loc071,31,Menzie's Golden Bush Scrub,71,0.9039701354861202,13,0
+class31_loc072,31,Menzie's Golden Bush Scrub,72,0.9094909952456736,13,1
+class31_loc066,31,Menzie's Golden Bush Scrub,66,0.9123745894434757,13,1
+class31_loc057,31,Menzie's Golden Bush Scrub,57,0.9135055228199326,13,1
+class31_loc063,31,Menzie's Golden Bush Scrub,63,0.9279181082631999,13,0
+class31_loc045,31,Menzie's Golden Bush Scrub,45,0.9567493561449558,13,0
+class31_loc082,31,Menzie's Golden Bush Scrub,82,0.9598952404386017,13,0
+class31_loc036,31,Menzie's Golden Bush Scrub,36,0.9607862498022259,13,0
+class31_loc110,31,Menzie's Golden Bush Scrub,110,0.9625526675701573,13,0
+class31_loc115,31,Menzie's Golden Bush Scrub,115,0.9658595197569771,13,0
+class31_loc033,31,Menzie's Golden Bush Scrub,33,0.9692051164214455,13,0
+class31_loc103,31,Menzie's Golden Bush Scrub,103,0.977866833191481,13,0
+class31_loc002,31,Menzie's Golden Bush Scrub,2,0.9787911414024214,13,1
+class31_loc003,31,Menzie's Golden Bush Scrub,3,0.9874175022500594,13,0
+class31_loc011,31,Menzie's Golden Bush Scrub,11,0.9921266301968168,13,0
+class31_loc077,31,Menzie's Golden Bush Scrub,77,0.9999961853156949,13,0
+class33_loc010,33,Non-native Grassland,10,0.0,13,4
+class33_loc016,33,Non-native Grassland,16,0.0,13,2
+class33_loc026,33,Non-native Grassland,26,0.0,13,5
+class33_loc027,33,Non-native Grassland,27,0.0,13,2
+class33_loc043,33,Non-native Grassland,43,0.0,13,3
+class33_loc072,33,Non-native Grassland,72,0.0,13,3
+class33_loc084,33,Non-native Grassland,84,0.0,13,5
+class33_loc093,33,Non-native Grassland,93,0.0,13,3
+class33_loc110,33,Non-native Grassland,110,0.0,13,6
+class33_loc111,33,Non-native Grassland,111,0.0,13,3
+class33_loc117,33,Non-native Grassland,117,0.0,13,7
+class33_loc011,33,Non-native Grassland,11,2.091708729343611e-287,13,5
+class33_loc112,33,Non-native Grassland,112,4.711891693190937e-286,13,4
+class33_loc115,33,Non-native Grassland,115,1.3086437281504389e-285,13,4
+class33_loc042,33,Non-native Grassland,42,2.910770692922127e-285,13,4
+class33_loc050,33,Non-native Grassland,50,4.929372440462551e-285,13,3
+class33_loc075,33,Non-native Grassland,75,9.500785906012896e-285,13,4
+class33_loc096,33,Non-native Grassland,96,9.830009246204342e-285,13,3
+class33_loc038,33,Non-native Grassland,38,1.801753872134767e-283,13,3
+class33_loc022,33,Non-native Grassland,22,2.4028692966066146e-283,13,2
+class33_loc091,33,Non-native Grassland,91,3.1954903594834623e-283,13,2
+class33_loc003,33,Non-native Grassland,3,4.1699081783527233e-283,13,3
+class33_loc068,33,Non-native Grassland,68,7.328616532510396e-283,13,3
+class33_loc007,33,Non-native Grassland,7,7.535191862243848e-283,13,4
+class33_loc019,33,Non-native Grassland,19,1.1399187660097505e-282,13,3
+class33_loc033,33,Non-native Grassland,33,1.4673104393003157e-282,13,3
+class33_loc000,33,Non-native Grassland,0,2.229722686530903e-282,13,3
+class33_loc100,33,Non-native Grassland,100,6.322326669408545e-282,13,2
+class33_loc069,33,Non-native Grassland,69,1.3000882600257783e-281,13,1
+class33_loc106,33,Non-native Grassland,106,1.4242503374215965e-281,13,2
+class33_loc034,33,Non-native Grassland,34,2.0997398063753946e-281,13,2
+class33_loc070,33,Non-native Grassland,70,2.193547376643162e-281,13,2
+class33_loc028,33,Non-native Grassland,28,2.652258597583998e-281,13,3
+class33_loc017,33,Non-native Grassland,17,3.072556497265388e-281,13,3
+class33_loc057,33,Non-native Grassland,57,3.2755579552403415e-281,13,2
+class33_loc024,33,Non-native Grassland,24,4.5938381095442824e-281,13,2
+class33_loc025,33,Non-native Grassland,25,7.304304992665888e-281,13,3
+class33_loc037,33,Non-native Grassland,37,8.303984918235635e-281,13,1
+class33_loc090,33,Non-native Grassland,90,8.809346860659565e-281,13,1
+class33_loc004,33,Non-native Grassland,4,1.0733319687041388e-280,13,2
+class33_loc113,33,Non-native Grassland,113,1.1037637209911524e-280,13,2
+class33_loc119,33,Non-native Grassland,119,2.308957990752447e-280,13,2
+class33_loc080,33,Non-native Grassland,80,6.807851248831615e-280,13,2
+class33_loc051,33,Non-native Grassland,51,7.151847601356608e-280,13,1
+class33_loc035,33,Non-native Grassland,35,8.758151586476925e-280,13,2
+class33_loc102,33,Non-native Grassland,102,1.1356505606972566e-279,13,1
+class33_loc021,33,Non-native Grassland,21,1.4079045160281877e-279,13,2
+class33_loc086,33,Non-native Grassland,86,1.071183321059595e-278,13,1
+class33_loc071,33,Non-native Grassland,71,8.300347161742901e-07,13,7
+class33_loc005,33,Non-native Grassland,5,3.492390780565846e-05,13,6
+class33_loc001,33,Non-native Grassland,1,7.958051976287444e-05,13,5
+class33_loc103,33,Non-native Grassland,103,8.387342114251306e-05,13,4
+class33_loc067,33,Non-native Grassland,67,0.00019997813935896026,13,4
+class33_loc012,33,Non-native Grassland,12,0.00021250130741775803,13,4
+class33_loc062,33,Non-native Grassland,62,0.0006131615317796719,13,4
+class33_loc078,33,Non-native Grassland,78,0.0007193248258534194,13,4
+class33_loc076,33,Non-native Grassland,76,0.0016158582744435583,13,4
+class33_loc104,33,Non-native Grassland,104,0.001806613454653506,13,4
+class33_loc074,33,Non-native Grassland,74,0.001997516705685436,13,3
+class33_loc114,33,Non-native Grassland,114,0.0022711553580505046,13,4
+class33_loc109,33,Non-native Grassland,109,0.0032586272915375676,13,3
+class33_loc082,33,Non-native Grassland,82,0.0041350549086464515,13,3
+class33_loc056,33,Non-native Grassland,56,0.00479522212173851,13,3
+class33_loc116,33,Non-native Grassland,116,0.005791934479091281,13,3
+class33_loc083,33,Non-native Grassland,83,0.0071084316553641745,13,4
+class33_loc097,33,Non-native Grassland,97,0.0094992886271049,13,3
+class33_loc006,33,Non-native Grassland,6,0.009873758885131393,13,2
+class33_loc029,33,Non-native Grassland,29,0.013839891885927335,13,3
+class33_loc085,33,Non-native Grassland,85,0.015785951589906044,13,1
+class33_loc064,33,Non-native Grassland,64,0.01702956105943249,13,3
+class33_loc020,33,Non-native Grassland,20,0.019867854662703285,13,3
+class33_loc121,33,Non-native Grassland,121,0.022486731765796898,13,5
+class33_loc060,33,Non-native Grassland,60,0.0319062163829664,13,1
+class33_loc030,33,Non-native Grassland,30,0.03605879203148026,13,2
+class33_loc023,33,Non-native Grassland,23,0.03763116549997602,13,3
+class33_loc065,33,Non-native Grassland,65,0.04021979776804052,13,3
+class33_loc039,33,Non-native Grassland,39,0.04248984289895193,13,3
+class33_loc040,33,Non-native Grassland,40,0.045087280757538366,13,1
+class33_loc077,33,Non-native Grassland,77,0.048527313727622694,13,1
+class33_loc031,33,Non-native Grassland,31,0.04854099448348067,13,2
+class33_loc015,33,Non-native Grassland,15,0.049376399245956284,13,3
+class33_loc087,33,Non-native Grassland,87,0.05050832653809799,13,1
+class33_loc118,33,Non-native Grassland,118,0.05131466913540634,13,1
+class33_loc009,33,Non-native Grassland,9,0.07303582767531717,13,3
+class33_loc107,33,Non-native Grassland,107,0.07546871516362812,13,2
+class33_loc059,33,Non-native Grassland,59,0.0828927371177547,13,2
+class33_loc053,33,Non-native Grassland,53,0.08332044558530596,13,2
+class33_loc045,33,Non-native Grassland,45,0.09473452119792578,13,1
+class33_loc105,33,Non-native Grassland,105,0.10104661344728086,13,3
+class33_loc044,33,Non-native Grassland,44,0.11088656240258782,13,2
+class33_loc098,33,Non-native Grassland,98,0.11283764035605273,13,2
+class33_loc018,33,Non-native Grassland,18,0.20757671755853624,13,2
+class33_loc041,33,Non-native Grassland,41,0.20816797387763925,13,1
+class33_loc048,33,Non-native Grassland,48,0.217402229579471,13,2
+class33_loc095,33,Non-native Grassland,95,0.26176748799398303,13,0
+class33_loc002,33,Non-native Grassland,2,0.2746200561167166,13,1
+class33_loc120,33,Non-native Grassland,120,0.3121272785452618,13,1
+class33_loc092,33,Non-native Grassland,92,0.33829629436594055,13,1
+class33_loc046,33,Non-native Grassland,46,0.34014943024766725,13,1
+class33_loc081,33,Non-native Grassland,81,0.34432643154944004,13,1
+class33_loc013,33,Non-native Grassland,13,0.3447890891318554,13,0
+class33_loc063,33,Non-native Grassland,63,0.38812889463598826,13,0
+class33_loc008,33,Non-native Grassland,8,0.3988901672595771,13,0
+class33_loc101,33,Non-native Grassland,101,0.40553237733490477,13,1
+class33_loc047,33,Non-native Grassland,47,0.4243971212264504,13,1
+class33_loc094,33,Non-native Grassland,94,0.4692364891375591,13,1
+class33_loc014,33,Non-native Grassland,14,0.5147728838236906,13,1
+class33_loc079,33,Non-native Grassland,79,0.652220807594813,13,0
+class33_loc052,33,Non-native Grassland,52,0.6563117001739893,13,1
+class33_loc055,33,Non-native Grassland,55,0.7080437453925352,13,0
+class33_loc089,33,Non-native Grassland,89,0.8147921332379294,13,0
+class33_loc108,33,Non-native Grassland,108,0.8484274518476747,13,0
+class33_loc036,33,Non-native Grassland,36,0.8662873168308378,13,1
+class33_loc049,33,Non-native Grassland,49,0.9015857269379177,13,0
+class33_loc054,33,Non-native Grassland,54,0.9099914676339019,13,0
+class33_loc099,33,Non-native Grassland,99,0.9234233578173358,13,1
+class33_loc073,33,Non-native Grassland,73,0.9691164750175971,13,0
+class33_loc058,33,Non-native Grassland,58,0.9738900479084638,13,0
+class33_loc061,33,Non-native Grassland,61,0.9879233146655969,13,0
+class33_loc032,33,Non-native Grassland,32,0.9930410472978681,13,0
+class33_loc066,33,Non-native Grassland,66,0.9998155046727991,13,0
+class33_loc088,33,Non-native Grassland,88,0.9999056530961199,13,0
+class37_loc013,37,Purple Sage Scrub,13,0.0,13,5
+class37_loc025,37,Purple Sage Scrub,25,0.0,13,4
+class37_loc042,37,Purple Sage Scrub,42,0.0,13,4
+class37_loc049,37,Purple Sage Scrub,49,0.0,13,5
+class37_loc051,37,Purple Sage Scrub,51,0.0,13,4
+class37_loc069,37,Purple Sage Scrub,69,0.0,13,6
+class37_loc077,37,Purple Sage Scrub,77,0.0,13,2
+class37_loc113,37,Purple Sage Scrub,113,0.0,12,5
+class37_loc098,37,Purple Sage Scrub,98,1.6374257295779927e-292,12,8
+class37_loc112,37,Purple Sage Scrub,112,1.3641796682119128e-286,12,4
+class37_loc022,37,Purple Sage Scrub,22,1.6366568174254277e-286,13,4
+class37_loc105,37,Purple Sage Scrub,105,2.0179381421674184e-285,13,5
+class37_loc100,37,Purple Sage Scrub,100,3.103543730216934e-285,12,5
+class37_loc094,37,Purple Sage Scrub,94,3.916692756318149e-285,13,5
+class37_loc026,37,Purple Sage Scrub,26,4.1341749582573004e-285,13,3
+class37_loc088,37,Purple Sage Scrub,88,2.008996967850251e-284,12,3
+class37_loc107,37,Purple Sage Scrub,107,2.0090086746159125e-284,12,3
+class37_loc059,37,Purple Sage Scrub,59,3.407248676528887e-284,13,4
+class37_loc045,37,Purple Sage Scrub,45,4.0621836554005216e-284,13,4
+class37_loc071,37,Purple Sage Scrub,71,1.6155954585522882e-283,13,4
+class37_loc101,37,Purple Sage Scrub,101,2.6191129147772056e-283,12,2
+class37_loc054,37,Purple Sage Scrub,54,3.6142302153812114e-283,13,3
+class37_loc084,37,Purple Sage Scrub,84,6.239717266327172e-283,13,3
+class37_loc067,37,Purple Sage Scrub,67,9.350171739919877e-283,13,3
+class37_loc037,37,Purple Sage Scrub,37,1.1822090082333642e-282,13,3
+class37_loc010,37,Purple Sage Scrub,10,2.658238831145492e-282,13,2
+class37_loc036,37,Purple Sage Scrub,36,4.9717962926383715e-282,13,3
+class37_loc081,37,Purple Sage Scrub,81,1.2739262163762244e-281,13,3
+class37_loc035,37,Purple Sage Scrub,35,1.339444298098232e-281,13,2
+class37_loc086,37,Purple Sage Scrub,86,3.050773152167958e-281,13,3
+class37_loc027,37,Purple Sage Scrub,27,7.48951744034629e-281,13,3
+class37_loc058,37,Purple Sage Scrub,58,1.1203713287937006e-280,13,3
+class37_loc021,37,Purple Sage Scrub,21,1.3885342623322652e-280,13,3
+class37_loc096,37,Purple Sage Scrub,96,1.7485017330703826e-280,12,1
+class37_loc070,37,Purple Sage Scrub,70,1.992955313980361e-280,13,2
+class37_loc008,37,Purple Sage Scrub,8,1.553863517083613e-279,13,1
+class37_loc062,37,Purple Sage Scrub,62,8.406254134192213e-06,13,5
+class37_loc064,37,Purple Sage Scrub,64,0.004562602377198054,13,3
+class37_loc080,37,Purple Sage Scrub,80,0.008119936187757127,13,1
+class37_loc047,37,Purple Sage Scrub,47,0.011991186424640787,13,2
+class37_loc090,37,Purple Sage Scrub,90,0.014713952830899374,13,3
+class37_loc032,37,Purple Sage Scrub,32,0.019910382486191067,13,3
+class37_loc004,37,Purple Sage Scrub,4,0.0232364805840042,13,3
+class37_loc033,37,Purple Sage Scrub,33,0.025036242363055714,13,3
+class37_loc075,37,Purple Sage Scrub,75,0.025664069859961895,13,3
+class37_loc103,37,Purple Sage Scrub,103,0.02920916428825675,12,2
+class37_loc044,37,Purple Sage Scrub,44,0.04369966970830522,13,2
+class37_loc065,37,Purple Sage Scrub,65,0.04698953342781002,13,2
+class37_loc106,37,Purple Sage Scrub,106,0.049488193066430756,12,2
+class37_loc074,37,Purple Sage Scrub,74,0.05079928251329507,13,2
+class37_loc079,37,Purple Sage Scrub,79,0.053486638905856095,13,3
+class37_loc023,37,Purple Sage Scrub,23,0.054691556494990634,13,2
+class37_loc057,37,Purple Sage Scrub,57,0.058463146363449014,13,3
+class37_loc108,37,Purple Sage Scrub,108,0.07650823778359676,12,2
+class37_loc003,37,Purple Sage Scrub,3,0.076510814939743,13,2
+class37_loc034,37,Purple Sage Scrub,34,0.0909785849151422,13,3
+class37_loc005,37,Purple Sage Scrub,5,0.09298761934536395,13,1
+class37_loc048,37,Purple Sage Scrub,48,0.09308620556472691,13,2
+class37_loc019,37,Purple Sage Scrub,19,0.11019498340310672,13,1
+class37_loc095,37,Purple Sage Scrub,95,0.12865208215226281,12,2
+class37_loc029,37,Purple Sage Scrub,29,0.1364682205145998,13,2
+class37_loc063,37,Purple Sage Scrub,63,0.1735891072677286,13,2
+class37_loc001,37,Purple Sage Scrub,1,0.2052259106004282,13,2
+class37_loc041,37,Purple Sage Scrub,41,0.20916835387169475,13,1
+class37_loc091,37,Purple Sage Scrub,91,0.2352026371687895,12,2
+class37_loc085,37,Purple Sage Scrub,85,0.24470457314221186,13,1
+class37_loc024,37,Purple Sage Scrub,24,0.24845777908221944,13,2
+class37_loc078,37,Purple Sage Scrub,78,0.2510470946010752,13,1
+class37_loc118,37,Purple Sage Scrub,118,0.25220963960449866,12,1
+class37_loc093,37,Purple Sage Scrub,93,0.26538315735340096,12,1
+class37_loc053,37,Purple Sage Scrub,53,0.2695758791340832,13,1
+class37_loc020,37,Purple Sage Scrub,20,0.27272429066795506,13,1
+class37_loc011,37,Purple Sage Scrub,11,0.31789207589700075,13,1
+class37_loc099,37,Purple Sage Scrub,99,0.32630029688789586,12,1
+class37_loc018,37,Purple Sage Scrub,18,0.33816136346850445,13,2
+class37_loc016,37,Purple Sage Scrub,16,0.3743477443689498,13,0
+class37_loc000,37,Purple Sage Scrub,0,0.3820950044321249,13,1
+class37_loc104,37,Purple Sage Scrub,104,0.38670868797763713,12,2
+class37_loc083,37,Purple Sage Scrub,83,0.41014275106467357,13,1
+class37_loc052,37,Purple Sage Scrub,52,0.4326337607598198,13,1
+class37_loc046,37,Purple Sage Scrub,46,0.4412280815391334,13,1
+class37_loc015,37,Purple Sage Scrub,15,0.486646972114147,13,1
+class37_loc115,37,Purple Sage Scrub,115,0.49233221493021506,12,1
+class37_loc031,37,Purple Sage Scrub,31,0.5496735547092271,13,1
+class37_loc012,37,Purple Sage Scrub,12,0.5622037615247004,13,0
+class37_loc009,37,Purple Sage Scrub,9,0.6047894776814831,13,1
+class37_loc072,37,Purple Sage Scrub,72,0.6330559163565219,13,1
+class37_loc061,37,Purple Sage Scrub,61,0.6398241343946317,13,1
+class37_loc039,37,Purple Sage Scrub,39,0.6698216498202075,13,1
+class37_loc040,37,Purple Sage Scrub,40,0.6801957712680642,13,1
+class37_loc038,37,Purple Sage Scrub,38,0.7073648997973581,13,0
+class37_loc002,37,Purple Sage Scrub,2,0.7194744148044584,13,0
+class37_loc028,37,Purple Sage Scrub,28,0.7341690808613162,13,1
+class37_loc056,37,Purple Sage Scrub,56,0.7439950452299633,13,1
+class37_loc066,37,Purple Sage Scrub,66,0.7520832657784682,13,0
+class37_loc055,37,Purple Sage Scrub,55,0.7713414526345068,13,1
+class37_loc006,37,Purple Sage Scrub,6,0.7948780604927917,13,1
+class37_loc097,37,Purple Sage Scrub,97,0.8070284570332162,12,1
+class37_loc073,37,Purple Sage Scrub,73,0.8147339123970352,13,1
+class37_loc092,37,Purple Sage Scrub,92,0.8729100646882696,12,0
+class37_loc110,37,Purple Sage Scrub,110,0.8814452568549612,12,1
+class37_loc082,37,Purple Sage Scrub,82,0.8965985151579395,13,1
+class37_loc068,37,Purple Sage Scrub,68,0.9328130826354069,13,1
+class37_loc116,37,Purple Sage Scrub,116,0.9528717636489066,12,0
+class37_loc014,37,Purple Sage Scrub,14,0.9536249249849393,13,0
+class37_loc114,37,Purple Sage Scrub,114,0.9653533067037561,12,0
+class37_loc007,37,Purple Sage Scrub,7,0.9674652944975779,13,0
+class37_loc050,37,Purple Sage Scrub,50,0.9718253363628332,13,0
+class37_loc030,37,Purple Sage Scrub,30,0.9821843355255089,13,0
+class37_loc117,37,Purple Sage Scrub,117,0.9887739439533089,12,0
+class37_loc017,37,Purple Sage Scrub,17,0.9887874597592208,13,0
+class37_loc111,37,Purple Sage Scrub,111,0.9902807802862715,12,0
+class37_loc102,37,Purple Sage Scrub,102,0.9932770743278012,12,0
+class37_loc076,37,Purple Sage Scrub,76,0.995751467959809,13,0
+class37_loc087,37,Purple Sage Scrub,87,0.9991258795889594,13,0
+class37_loc109,37,Purple Sage Scrub,109,0.9998316621872777,12,0
+class37_loc089,37,Purple Sage Scrub,89,0.9999699507261871,12,0
+class37_loc043,37,Purple Sage Scrub,43,0.9999843691699504,13,0
+class37_loc060,37,Purple Sage Scrub,60,0.9999973097396754,13,0
+class43_loc002,43,Semi-natural Herbaceous Stands,2,0.0,13,4
+class43_loc018,43,Semi-natural Herbaceous Stands,18,0.0,13,7
+class43_loc029,43,Semi-natural Herbaceous Stands,29,0.0,13,3
+class43_loc036,43,Semi-natural Herbaceous Stands,36,0.0,13,4
+class43_loc039,43,Semi-natural Herbaceous Stands,39,0.0,13,4
+class43_loc045,43,Semi-natural Herbaceous Stands,45,0.0,13,5
+class43_loc047,43,Semi-natural Herbaceous Stands,47,0.0,13,5
+class43_loc053,43,Semi-natural Herbaceous Stands,53,0.0,13,5
+class43_loc055,43,Semi-natural Herbaceous Stands,55,0.0,13,5
+class43_loc056,43,Semi-natural Herbaceous Stands,56,0.0,13,6
+class43_loc058,43,Semi-natural Herbaceous Stands,58,0.0,13,6
+class43_loc066,43,Semi-natural Herbaceous Stands,66,0.0,13,7
+class43_loc073,43,Semi-natural Herbaceous Stands,73,0.0,13,5
+class43_loc076,43,Semi-natural Herbaceous Stands,76,0.0,13,6
+class43_loc078,43,Semi-natural Herbaceous Stands,78,0.0,13,7
+class43_loc085,43,Semi-natural Herbaceous Stands,85,0.0,13,5
+class43_loc087,43,Semi-natural Herbaceous Stands,87,0.0,13,5
+class43_loc094,43,Semi-natural Herbaceous Stands,94,0.0,13,7
+class43_loc097,43,Semi-natural Herbaceous Stands,97,0.0,13,4
+class43_loc110,43,Semi-natural Herbaceous Stands,110,0.0,13,3
+class43_loc021,43,Semi-natural Herbaceous Stands,21,1.410106868202665e-287,13,5
+class43_loc104,43,Semi-natural Herbaceous Stands,104,3.3874342961557673e-287,13,4
+class43_loc001,43,Semi-natural Herbaceous Stands,1,1.9370732558299514e-286,13,6
+class43_loc099,43,Semi-natural Herbaceous Stands,99,2.2461327356133943e-286,13,6
+class43_loc017,43,Semi-natural Herbaceous Stands,17,5.264169538303367e-286,13,5
+class43_loc081,43,Semi-natural Herbaceous Stands,81,3.325854642063438e-285,13,4
+class43_loc116,43,Semi-natural Herbaceous Stands,116,3.566677932835408e-285,13,3
+class43_loc054,43,Semi-natural Herbaceous Stands,54,9.640931499706476e-285,13,3
+class43_loc012,43,Semi-natural Herbaceous Stands,12,1.3723877267936603e-284,13,4
+class43_loc062,43,Semi-natural Herbaceous Stands,62,1.910240221380187e-284,13,3
+class43_loc050,43,Semi-natural Herbaceous Stands,50,2.4007373200069784e-284,13,4
+class43_loc092,43,Semi-natural Herbaceous Stands,92,2.654235475555407e-284,13,3
+class43_loc048,43,Semi-natural Herbaceous Stands,48,4.976277135699143e-284,13,2
+class43_loc019,43,Semi-natural Herbaceous Stands,19,1.3288461743972467e-283,13,2
+class43_loc007,43,Semi-natural Herbaceous Stands,7,1.6085450328177769e-283,13,3
+class43_loc091,43,Semi-natural Herbaceous Stands,91,1.8854242846637116e-283,13,3
+class43_loc101,43,Semi-natural Herbaceous Stands,101,2.1991954468535645e-283,13,3
+class43_loc112,43,Semi-natural Herbaceous Stands,112,3.0502733950623936e-283,13,4
+class43_loc044,43,Semi-natural Herbaceous Stands,44,3.18649379178374e-283,13,3
+class43_loc067,43,Semi-natural Herbaceous Stands,67,3.353119066819988e-283,13,4
+class43_loc090,43,Semi-natural Herbaceous Stands,90,3.3955285599865725e-283,13,2
+class43_loc006,43,Semi-natural Herbaceous Stands,6,4.515052578759068e-283,13,2
+class43_loc059,43,Semi-natural Herbaceous Stands,59,4.599983692858043e-283,13,3
+class43_loc025,43,Semi-natural Herbaceous Stands,25,6.662938260998954e-283,13,3
+class43_loc082,43,Semi-natural Herbaceous Stands,82,7.266825331018234e-283,13,3
+class43_loc095,43,Semi-natural Herbaceous Stands,95,7.975909250574942e-283,13,4
+class43_loc057,43,Semi-natural Herbaceous Stands,57,8.793925975672808e-283,13,3
+class43_loc046,43,Semi-natural Herbaceous Stands,46,9.36911683695652e-283,13,2
+class43_loc063,43,Semi-natural Herbaceous Stands,63,5.235305042016591e-282,13,3
+class43_loc065,43,Semi-natural Herbaceous Stands,65,5.420255390052916e-282,13,2
+class43_loc020,43,Semi-natural Herbaceous Stands,20,1.1080996791156467e-281,13,1
+class43_loc083,43,Semi-natural Herbaceous Stands,83,4.248967834569797e-281,13,3
+class43_loc023,43,Semi-natural Herbaceous Stands,23,1.2413582485137775e-280,13,2
+class43_loc010,43,Semi-natural Herbaceous Stands,10,1.5186706013308268e-280,13,2
+class43_loc028,43,Semi-natural Herbaceous Stands,28,2.6500343859481735e-278,13,1
+class43_loc016,43,Semi-natural Herbaceous Stands,16,1.4769459538764709e-06,13,6
+class43_loc074,43,Semi-natural Herbaceous Stands,74,5.164531753214284e-05,13,4
+class43_loc049,43,Semi-natural Herbaceous Stands,49,8.597217878788782e-05,13,4
+class43_loc111,43,Semi-natural Herbaceous Stands,111,0.00018488130084876451,13,5
+class43_loc027,43,Semi-natural Herbaceous Stands,27,0.00027711467900447625,13,4
+class43_loc031,43,Semi-natural Herbaceous Stands,31,0.00037097346798078946,13,3
+class43_loc034,43,Semi-natural Herbaceous Stands,34,0.0014042651955034516,13,4
+class43_loc080,43,Semi-natural Herbaceous Stands,80,0.001590347081409564,13,5
+class43_loc118,43,Semi-natural Herbaceous Stands,118,0.003652070191517912,13,4
+class43_loc011,43,Semi-natural Herbaceous Stands,11,0.003809386484880126,13,3
+class43_loc114,43,Semi-natural Herbaceous Stands,114,0.004576658293787465,13,2
+class43_loc103,43,Semi-natural Herbaceous Stands,103,0.005134192087483986,13,3
+class43_loc088,43,Semi-natural Herbaceous Stands,88,0.006263246945463277,13,4
+class43_loc013,43,Semi-natural Herbaceous Stands,13,0.007552352849488368,13,2
+class43_loc108,43,Semi-natural Herbaceous Stands,108,0.007875043257618725,13,3
+class43_loc119,43,Semi-natural Herbaceous Stands,119,0.012461226670539303,13,3
+class43_loc032,43,Semi-natural Herbaceous Stands,32,0.013569070330797722,13,2
+class43_loc086,43,Semi-natural Herbaceous Stands,86,0.013962697547076467,13,3
+class43_loc037,43,Semi-natural Herbaceous Stands,37,0.019218982403527436,13,1
+class43_loc106,43,Semi-natural Herbaceous Stands,106,0.020974926805442502,13,4
+class43_loc068,43,Semi-natural Herbaceous Stands,68,0.025808106085209944,13,3
+class43_loc003,43,Semi-natural Herbaceous Stands,3,0.02743540752021591,13,3
+class43_loc113,43,Semi-natural Herbaceous Stands,113,0.027476834163574933,13,2
+class43_loc009,43,Semi-natural Herbaceous Stands,9,0.029290941175456137,13,3
+class43_loc071,43,Semi-natural Herbaceous Stands,71,0.029323340857317966,13,2
+class43_loc033,43,Semi-natural Herbaceous Stands,33,0.043470987387342376,13,1
+class43_loc052,43,Semi-natural Herbaceous Stands,52,0.04564713200087304,13,2
+class43_loc120,43,Semi-natural Herbaceous Stands,120,0.04879581629695279,13,2
+class43_loc075,43,Semi-natural Herbaceous Stands,75,0.04963582970026455,13,2
+class43_loc061,43,Semi-natural Herbaceous Stands,61,0.053484004045276645,13,2
+class43_loc038,43,Semi-natural Herbaceous Stands,38,0.05527307636814689,13,2
+class43_loc109,43,Semi-natural Herbaceous Stands,109,0.06234167652471084,13,3
+class43_loc005,43,Semi-natural Herbaceous Stands,5,0.07028986690507374,13,3
+class43_loc115,43,Semi-natural Herbaceous Stands,115,0.07904065993537719,13,2
+class43_loc069,43,Semi-natural Herbaceous Stands,69,0.10967642507707703,13,2
+class43_loc117,43,Semi-natural Herbaceous Stands,117,0.11479358326205247,13,3
+class43_loc060,43,Semi-natural Herbaceous Stands,60,0.11554250120652108,13,2
+class43_loc043,43,Semi-natural Herbaceous Stands,43,0.13466437387105876,13,2
+class43_loc064,43,Semi-natural Herbaceous Stands,64,0.1377073129926367,13,1
+class43_loc089,43,Semi-natural Herbaceous Stands,89,0.139558432406134,13,1
+class43_loc100,43,Semi-natural Herbaceous Stands,100,0.16096097813333304,13,0
+class43_loc051,43,Semi-natural Herbaceous Stands,51,0.1611671968004171,13,1
+class43_loc107,43,Semi-natural Herbaceous Stands,107,0.16884488906962952,13,1
+class43_loc070,43,Semi-natural Herbaceous Stands,70,0.20499768093558618,13,0
+class43_loc004,43,Semi-natural Herbaceous Stands,4,0.23807563190163994,13,2
+class43_loc024,43,Semi-natural Herbaceous Stands,24,0.26154886924011633,13,1
+class43_loc077,43,Semi-natural Herbaceous Stands,77,0.32738966624889154,13,1
+class43_loc102,43,Semi-natural Herbaceous Stands,102,0.3325875648692088,13,1
+class43_loc096,43,Semi-natural Herbaceous Stands,96,0.3441200793668439,13,1
+class43_loc030,43,Semi-natural Herbaceous Stands,30,0.3768807754975696,13,1
+class43_loc072,43,Semi-natural Herbaceous Stands,72,0.39038411055633737,13,1
+class43_loc022,43,Semi-natural Herbaceous Stands,22,0.40523497052655394,13,1
+class43_loc014,43,Semi-natural Herbaceous Stands,14,0.4394539582028896,13,1
+class43_loc042,43,Semi-natural Herbaceous Stands,42,0.550050771426819,13,0
+class43_loc098,43,Semi-natural Herbaceous Stands,98,0.6270862403019231,13,0
+class43_loc015,43,Semi-natural Herbaceous Stands,15,0.6434767891104913,13,0
+class43_loc041,43,Semi-natural Herbaceous Stands,41,0.6860703221870081,13,0
+class43_loc093,43,Semi-natural Herbaceous Stands,93,0.6994667768244556,13,0
+class43_loc040,43,Semi-natural Herbaceous Stands,40,0.7109476876441375,13,0
+class43_loc026,43,Semi-natural Herbaceous Stands,26,0.740213982348656,13,0
+class43_loc105,43,Semi-natural Herbaceous Stands,105,0.7807978811199345,13,0
+class43_loc008,43,Semi-natural Herbaceous Stands,8,0.852562092804292,13,0
+class43_loc079,43,Semi-natural Herbaceous Stands,79,0.893887830113156,13,0
+class43_loc000,43,Semi-natural Herbaceous Stands,0,0.8975033374388339,13,0
+class43_loc035,43,Semi-natural Herbaceous Stands,35,0.9722745452966607,13,0
+class43_loc084,43,Semi-natural Herbaceous Stands,84,0.9956062340913262,13,0
+class43_loc121,43,Semi-natural Herbaceous Stands,121,0.999223864884772,13,0
