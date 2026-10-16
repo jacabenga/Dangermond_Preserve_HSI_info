@@ -12,6 +12,8 @@ biological information emerges in imaging spectroscopy data"* (Revenga et al., 2
  
 * Plotting code, required input data and exemplary output Figures are provided in ```/scripts/plotting_code/```.
 
+* Input data required has been updated to the Zenodo repository for single file size exceeding 25 MiB.
+
 * Large raster data files (e.g. HDF5 and .parquet files) will be hosted separately in a data repository (Zenodo) and linked here.
 
 * Both the Zenodo ```data repository``` and this GitHub ```code repository``` are public and DOI-compliant.
