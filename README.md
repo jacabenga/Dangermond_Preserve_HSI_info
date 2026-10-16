@@ -12,8 +12,6 @@ biological information emerges in imaging spectroscopy data"* (Revenga et al., 2
 
 * Both the Zenodo ```data repository``` and this GitHub ```code repository``` are public and DOI-compliant.
 
-* Both data and code repositories keep the same structure.
-
 
 ![Graphical Abstract](graphical_abstract_v1.png)
 
