@@ -6,4 +6,7 @@ This is the repository containing the code and documentation supporting the stud
 biological information emerges in imaging spectroscopy data" (Revenga et al., 2026, Remote Sensing of Environment) 
 
 
-Large data files will be hosted separately and linked here.
+Reproducible code, required input_data and exemplary output Figures are provided in /plotting_code/.
+
+
+Large raster data files (e.g. HDF5 and .parquet files) will be hosted separately (Zenodo) and linked here.
