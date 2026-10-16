@@ -18,7 +18,7 @@ biological information emerges in imaging spectroscopy data"* (Revenga et al., 2
 
 * Both the Zenodo ```data repository``` and this GitHub ```code repository``` are public and DOI-compliant.
 
-* ```/RGB_maps_quicklooks/``` provides RGB images derived from the mosaicked hyperspectral images (HSI), after geographic correction and spectral rectification, intersected with the polygon of the Dangermond Preserve, for the 13 data acquisition dates (24 Feb 2022 -- 29 May 2022) of the [SHIFT imaging spectroscopy mission](https://impact.earthdata.nasa.gov/casei/campaign/SHIFT/).
+* ```/RGB_maps_quicklooks/``` provides RGB images derived from the mosaicked hyperspectral images (HSI), after BRDF and topographic correction, spectral rectification, intersected with the polygon of the Dangermond Preserve, for the 13 data acquisition dates (24 Feb 2022 -- 29 May 2022) of the [SHIFT imaging spectroscopy mission](https://impact.earthdata.nasa.gov/casei/campaign/SHIFT/).
 
 
 ![Graphical Abstract](graphical_abstract_v1.jpg)
