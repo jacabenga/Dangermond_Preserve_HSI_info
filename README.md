@@ -1,9 +1,5 @@
 
 
-## Dangermond Preserve HSI
-
-Scripts and documentation for processing and analysing hyperspectral imaging data.
-
 ## Project overview
 
 This is the repository containing the code and documentation supporting the study "Spectral-temporal patterns of vegetation communities: identifying where and when
