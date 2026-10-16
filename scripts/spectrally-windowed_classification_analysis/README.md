@@ -1,1 +1,1 @@
-Here is the code for the windowed Random Forest classification analysis.
+Here is the code for the spectrally-windowed Random Forest classification analysis.
