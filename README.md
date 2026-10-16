@@ -18,6 +18,8 @@ biological information emerges in imaging spectroscopy data"* (Revenga et al., 2
 
 * Both the Zenodo ```data repository``` and this GitHub ```code repository``` are public and DOI-compliant.
 
+* ```/RGB_maps_quicklooks/``` provides RGB images derived from the hyperspectral image (HSI), intersected with the polygon of the Dangermond Preserve, for the 13 survey data acquisition dates (24 Feb 2022 -- 29 May 2022).
+
 
 ![Graphical Abstract](graphical_abstract_v1.jpg)
 
