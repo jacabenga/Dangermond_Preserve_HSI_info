@@ -1,1 +1,1 @@
-Output Figures provided as example.
+Output Figures and summary data provided as example.
