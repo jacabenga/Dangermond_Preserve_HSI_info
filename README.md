@@ -10,3 +10,8 @@ Reproducible code, required input data and exemplary output Figures are provided
 
 
 Large raster data files (e.g. HDF5 and .parquet files) will be hosted separately (Zenodo) and linked here.
+
+
+![Graphical Abstract](graphical_abstract_v1.png)
+
+*Photo credit: Fabian D. Schneider.*
