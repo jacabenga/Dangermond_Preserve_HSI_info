@@ -1,2 +1,0 @@
-
-Data input for figures.
