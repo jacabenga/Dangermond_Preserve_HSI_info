@@ -8,7 +8,7 @@ biological information emerges in imaging spectroscopy data"* (Revenga et al., 2
 
 * Reproducible code developed in support of the analyses of the study are provided in ```/scripts/*_analysis/```.
 
-* The meteorological context, specific to the area of interest (Dangermond Preserve, Santa Barbara, CA, USA), was derived from Daymet Version 4. It is provided in ```/scripts/meteorological_context/```.
+* The meteorological context, specific to the area of interest (Dangermond Preserve, Santa Barbara, CA, USA), was derived from Daymet Version 4. It is provided in ```/scripts/meteorological_context_Daymet/```.
  
 * Plotting code, required input data and exemplary output Figures are provided in ```/scripts/plotting_code/```.
 
