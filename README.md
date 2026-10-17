@@ -6,7 +6,7 @@ This is the repository containing the code and documentation supporting the stud
 biological information emerges in imaging spectroscopy data"* (Revenga et al., 2026, Remote Sensing of Environment). 
 
 
-* Reproducible code developed in support of the analyses of the study are provided in ```/scripts/*_analysis/```.
+* Source code developed in support of the analyses of the study is provided in ```/scripts/*_analysis/```.
 
 * The meteorological context, specific to the area of interest (Dangermond Preserve, Santa Barbara, CA, USA), was derived from Daymet Version 4. It is provided in ```/scripts/meteorological_context_Daymet/```.
  
